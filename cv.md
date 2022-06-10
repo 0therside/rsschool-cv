@@ -18,7 +18,7 @@
 
 ## Summary
 
-I am seeking employment with a company where I can grow as a Frontend Developer. 
+I am seeking employment with a company where I can grow as a Frontend Developer.  
 I am at the start of my career, studying at RS School JavaScript/Front-end course now.
 
 **My positive attributes are:**
@@ -52,21 +52,21 @@ function multiply(a, b){
 
 ## Work experience
 
-_My first project is_ ___my CV.___
+_My first project is_ ___my CV.___  
 [You can find it here](https://0therside.github.io/rsschool-cv/cv)
 
 ## Education
 
-**The Rolling Scopes School**
-JavaScript/Front-end course, Stage 0
+**The Rolling Scopes School**  
+JavaScript/Front-end course, Stage 0  
 *(01.06.2022 – Present)*
 
 ---
 
-**First Moscow State Medical University of the Ministry of Health of the Russian Federation**
-**(Sechenov University)**
-General Medicine Department
-Specialist's Degree: Medical doctor 
+**First Moscow State Medical University of the Ministry of Health of the Russian Federation**  
+**(Sechenov University)**  
+General Medicine Department  
+Specialist's Degree: Medical doctor  
 *(2006 - 2018)*
 
 ## Language skills
