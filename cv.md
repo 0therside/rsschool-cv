@@ -52,9 +52,8 @@ function multiply(a, b){
 
 ## Work experience
 
-_My first project is_ ___my CV:___
-[https://0therside.github.io/rsschool-cv/cv][id]
-[id][https://0therside.github.io/rsschool-cv/cv]
+_My first project is_ ___my CV.___
+[You can find it here] [id] [id]: https://0therside.github.io/rsschool-cv/cv
 
 ## Education
 
