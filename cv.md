@@ -1,6 +1,6 @@
 # Natalia (Yana) Elistratova
 
-![photo](https://i.postimg.cc/jjGDxJtV/photo-cv-elistratova-n.jpg "Natalia Elistratova")
+![photo](https://i.postimg.cc/Dw7vcPyy/photo-cv-elis-n.jpg "Natalia Elistratova")
 
 > A journey of a thousand miles begins with a single step
 
