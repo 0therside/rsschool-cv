@@ -1,5 +1,7 @@
 # Natalia (Yana) Elistratova
 
+![photo](https://vk.com/im?sel=317510806&z=photo317510806_457246456%2Fmail166721 "Natalia Elistratova")
+
 > A journey of a thousand miles begins with a single step
 
 ## Contacts
