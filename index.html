@@ -1,14 +1,123 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <meta charset="utf-8">
+  <meta charset="UTF-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Doc Title</title>
+  <title>cv</title>
+  <link rel="stylesheet" href="style.css">
+  <link rel="icon" href="assets/favicon.ico">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@300&display=swap" rel="stylesheet">
 </head>
 <body>
- <p>
-  new text
-  </p>
+  <header class="header">
+    <nav class="nav">
+      <ul class="nav-list">
+        <li class="nav-item"><a href="#profile" class="nav-link">Profile</a></li>
+        <li class="nav-item"><a href="#contacts" class="nav-link">Contacts</a></li>
+        <li class="nav-item"><a href="#summary" class="nav-link">Summary</a></li>
+        <li class="nav-item"><a href="#skills" class="nav-link">Skills</a></li>
+        <li class="nav-item"><a href="#code" class="nav-link">Code</a></li>
+        <li class="nav-item"><a href="#projects" class="nav-link">Projects</a></li>
+        <li class="nav-item"><a href="#education" class="nav-link">Education</a></li>
+        <li class="nav-item"><a href="#languages" class="nav-link">Languages</a></li>
+      </ul>
+    </nav>
+  </header>
+  <main class="main">
+    <div class="container main-container">
+     <section class="section" id="profile">
+       <h1 class="section-title">Natalia (Yana) Elistratova</h1>
+       <img src="assets/img/photo-cv-elis-n.jpg" alt="photo - Elistratova N">
+     </section>
+     <section class="section" id="contacts">
+       <h2 class="section-title">Contacts</h2>
+       <ul>
+         <li><strong>Location:</strong> Moscow, Russia</li>
+         <li><strong>Phone number:</strong> +79265244052</li>
+         <li><strong>Messengers:</strong>
+          <ul>
+            <li><em>Telegram:</em> @ lookfor0therside</li>
+            <li><em>Discord:</em> @Jane Doe#8100</li>
+          </ul>
+         </li>
+         <li><strong>E-mail:</strong> 0thersidezer0p0int@gmail.com</li>
+       </ul>
+     </section>
+     <section class="section" id="summary">
+       <h2 class="section-title">Summary</h2>
+       <p>I am seeking employment with a company where I can grow as a Frontend Developer.</p>
+       <p>I am at the start of my career, studying at RS School JavaScript/Front-end course now.</p>
+       <p><strong>My positive attributes are:</strong></p>
+       <ul>
+        <li>Creativity</li>
+        <li>Strong analytical thinking</li>
+        <li>Quick learning skills</li>
+        <li>Conscientiousness</li>
+        <li>Initiativeness</li>
+        <li>Openmindedness</li>
+        <li>Ability to work efficiently both individually and in a team</li>
+        <li>Good sense of humour</li>
+       </ul>
+       <p>I have no experience in frontend yet, but I think that this course will help me to become a professional step by step.</p>
+     </section>
+     <section class="section" id="skills">
+       <h2 class="section-title">Skills</h2>
+       <ul>
+        <li>Markdown</li>
+        <li>HTML</li>
+        <li>CSS</li>
+        <li>Git/GitHub</li>
+        <li>VS Code</li>
+      </ul>
+     </section>
+     <section class="section" id="code">
+       <h2 class="section-title">Code</h2>
+       <p>Code example:</p>
+       <pre>
+        <code>
+         function multiply(a, b){
+          return a * b
+         }        
+        </code>
+       </pre>
+     </section>
+     <section class="section" id="projects">
+       <h2 class="section-title">Projects</h2>
+       <p>My first project is my CV created using Markdown:</p>
+       <a class="section-link" href="https://0therside.github.io/rsschool-cv/cv"> >>>click here to see my first project </a>
+       <p>My second project is my CV created using HTML and CSS:</p>
+       <a class="section-link" href="https://0therside.github.io/rsschool-cv/"> >>>click here to see my second project </a>
+     </section>
+     <section class="section" id="education">
+       <h2 class="section-title">Education</h2>
+       <p><strong>The Rolling Scopes School</strong></p>
+       <p>RS School JavaScript/Front-end course, Stage 0</p>
+       <p><em>(01.06.2022 – Present)</em></p>
+       <p>***</p>
+       <p><strong>First Moscow State Medical University of the Ministry of Health of the Russian Federation</strong></p>
+       <p>(Sechenov University)</p>
+       <p>General Medicine Department</p>
+       <p>Specialist's Degree: Medical doctor</p>
+       <p><em>(2006 - 2018)</em></p>
+     </section>
+     <section class="section" id="languages">
+       <h2 class="section-title">Languages</h2>
+       <ul>
+         <li>Russian (Native)</li>
+         <li>English (Intermediate)</li>
+       </ul>
+     </section>
+    </div>
+  </main>
+  <footer class="footer">
+    <span>
+    <a class="section-link" href="https://github.com/0therside">Natalia (Yana) Elistratova <img class="footer-img" src="assets/img/GitHub_logo.png" alt="github-logo">  @0therside</a>
+    <p>2022</p>
+    <a class="section-link" href="https://rs.school/js/"><img class="footer-img" src="assets/img/rs_school_js.svg" alt="rs_school-logo"></a> 
+    </span>
+  </footer>
 </body>
 </html>
